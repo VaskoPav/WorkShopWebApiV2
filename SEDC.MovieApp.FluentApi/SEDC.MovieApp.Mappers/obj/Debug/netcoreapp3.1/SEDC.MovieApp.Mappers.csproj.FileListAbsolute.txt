@@ -1,0 +1,17 @@
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.deps.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.runtimeconfig.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Models.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Models.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.csproj.CopyComplete
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Mappers.genruntimeconfig.cache

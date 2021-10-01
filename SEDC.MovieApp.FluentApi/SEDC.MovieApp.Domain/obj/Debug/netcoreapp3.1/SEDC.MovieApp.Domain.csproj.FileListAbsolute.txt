@@ -1,0 +1,12 @@
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.deps.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.runtimeconfig.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\bin\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.dll
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.pdb
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.genruntimeconfig.cache
+C:\Users\Vasko\Desktop\WebApi\WorkShopV2\SEDC.MovieApp.FluentApi\SEDC.MovieApp.Domain\obj\Debug\netcoreapp3.1\SEDC.MovieApp.Domain.csprojAssemblyReference.cache
